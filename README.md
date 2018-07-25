@@ -1,10 +1,6 @@
-# Waves Explorer Lite
+# Mebel Explorer Lite
 
-Waves Testnet Blockchain Explorer
-
-# Demo
-
-Demo is available on http://testnet.wavesexplorer.com
+Mebel Blockchain Explorer
 
 # Setup
 
@@ -25,7 +21,7 @@ Open http://localhost:3000 in browser. You'll see testnet version of explorer.
 
 # Build
 
-Build process creates ./distr directory for testnet, mainnet and devnet explorer configurations. 
+Build process creates ./distr directory for testnet, mainnet and devnet explorer configurations.
 To create distribution, run:
 ```
 gulp distr
